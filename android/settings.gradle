@@ -1,3 +1,5 @@
 rootProject.name = 'HelloWorldRN'
+include ':rct-fh'
+project(':rct-fh').projectDir = new File(rootProject.projectDir, '../node_modules/rct-fh/android')
 
 include ':app'
