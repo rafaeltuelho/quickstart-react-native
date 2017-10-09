@@ -3,14 +3,14 @@
 <plist>
 <dict>
   <key>host</key>
-  <string>https://cvicensa.us.demos.redhatmobile.com</string>
+  <string>https://rsoares.us.demos.redhatmobile.com</string>
   <key>appid</key>
-  <string>myapp-ip</string>
+  <string>wq5aeeno6rltjifvsfngaqgq</string>
   <key>projectid</key>
-  <string>my-project-id</string>
+  <string>wq5aeekuvzqagz4ymcassv5r</string>
   <key>appkey</key>
-  <string>my-app-key</string>
+  <string>618077b88d96092473570a01921244ddd68e4952</string>
   <key>connectiontag</key>
-  <string>x.y.z</string>
+  <string>0.0.3</string>
 </dict>
 </plist>
